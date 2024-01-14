@@ -14,4 +14,4 @@ services:
         image: 'xhofe/alist:latest'
 volumes:
     alistdata:
-        size: 100M
+        size: 1G
